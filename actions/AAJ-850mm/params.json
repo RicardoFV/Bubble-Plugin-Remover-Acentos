@@ -1,0 +1,23 @@
+{
+    "category": "plugins",
+    "display": "Substituir_Letra",
+    "fields": {
+        "AAK": {
+            "caption": "Campo",
+            "doc": "Insira o valor que deseja ser modificado",
+            "editor": "DynamicValue",
+            "name": "campo",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAL": {
+            "caption": "Modificado",
+            "name": "resposta",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side"
+}

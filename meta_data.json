@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "customer support",
+        "1": "data (things)",
+        "2": "productivity"
+    },
+    "description": "O Plugin remover acentos é responsável por substituir letras que estão com caracteres especiais e substituir pela mesma sem caractere.\n\nO campo pode receber tanto uma palavra como também uma frase.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1657477755428x329964293584204400/accentos-en-franc%C3%A9s-272x125.jpg",
+    "license": "open_source",
+    "name": "Remover Acentos"
+}
