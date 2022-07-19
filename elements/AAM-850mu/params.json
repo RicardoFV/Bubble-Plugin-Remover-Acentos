@@ -1,0 +1,28 @@
+{
+    "add_is_visible": true,
+    "category": "input forms",
+    "default_dim": {
+        "height": 15,
+        "width": 15
+    },
+    "display": "Substituir Caractere",
+    "events": {
+        "AAQ": {
+            "caption": "alterado",
+            "doc": "evento responsável por observar se teve alguma modificação, podendo ser usado sempre que a ação modificar letra for usada",
+            "name": "alterado"
+        }
+    },
+    "icon": "ion-android-create",
+    "states": {
+        "AAP": {
+            "caption": "Modificado",
+            "doc": "Ação responsável por devolver a letra sem o caractere especial",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\treturn ''\n\n}"
+            },
+            "name": "resposta",
+            "value": "text"
+        }
+    }
+}

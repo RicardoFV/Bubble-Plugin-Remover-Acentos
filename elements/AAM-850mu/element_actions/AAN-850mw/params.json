@@ -1,0 +1,14 @@
+{
+    "caption": "modificar letra",
+    "doc": "Ação responsável por mudar a letra que esta com o caractere especial por uma letra sem caractere",
+    "fields": {
+        "AAO": {
+            "caption": "campo",
+            "doc": "Insira o valor que deseja ser modificado",
+            "editor": "DynamicValue",
+            "name": "campo",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}
