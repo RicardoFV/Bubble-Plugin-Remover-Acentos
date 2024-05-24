@@ -1,4 +1,4 @@
-function(properties, context) { 
+async function(properties, context) { 
   // inicializa a variavel
   var campo = ""
   // recebo o texto
